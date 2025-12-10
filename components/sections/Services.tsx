@@ -7,7 +7,6 @@ const Services: React.FC = () => {
       <div className="max-w-6xl mx-auto">
         <div className="mb-12">
           <h2 className="text-sm font-bold text-primary uppercase tracking-widest mb-2">What I Do</h2>
-          <h3 className="text-3xl font-serif font-bold text-textMain">Specialized Services</h3>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
